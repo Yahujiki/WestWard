@@ -1,0 +1,33 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Large Fab/Marketplace Assets
+Content/Polytope_Studio/
+Content/ThirdPerson/
+Content/Characters/
+Content/Fab/
+Content/LevelPrototyping/
+
+# Unreal build files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.VC.db
+*.opensdf
+*.sdf
+*.sln
+*.suo
